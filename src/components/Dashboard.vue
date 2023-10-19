@@ -47,10 +47,10 @@
                 >{{ $t('routes.welcome.footer.office') }} DoKument</span
               >
             </li>
-            <li class="info-item">Office 1</li>
-            <li class="info-item">37 Marsh Parade</li>
-            <li class="info-item">Newcastle-under-Lyme</li>
-            <li class="info-item">ST5 1BT</li>
+            <li class="info-item">Corbet Arms</li>
+            <li class="info-item">High Street</li>
+            <li class="info-item">Market Drayton</li>
+            <li class="info-item">TF9 1PY</li>
           </ul>
         </li>
         <br />

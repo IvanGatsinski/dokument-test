@@ -77,7 +77,7 @@
         </p>
         <p class="address">
           <span> {{ $t('routes.contacts.right_side.address') }}:&nbsp;</span
-          >Office 1 37 Marsh Parade Newcastle-under-Lyme ST5 1BT
+          >Corbet Arms High Street Market Drayton TF9 1PY
         </p>
         <p class="email">
           <span>{{ $t('routes.contacts.right_side.email') }}:&nbsp;</span
