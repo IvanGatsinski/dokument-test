@@ -62,19 +62,19 @@
               }}</span>
             </li>
             <li class="info-item work-time">
-              {{ $t('monday') }} 09.00 – 18.00
+              {{ $t('monday') }} 09.00 – 17.00
             </li>
             <li class="info-item work-time">
-              {{ $t('tuesday') }} 09.00 – 18.00
+              {{ $t('tuesday') }} 09.00 – 17.00
             </li>
             <li class="info-item work-time">
-              {{ $t('wednesday') }} 09.00 – 18.00
+              {{ $t('wednesday') }} 09.00 – 17.00
             </li>
             <li class="info-item work-time">
-              {{ $t('thursday') }} 09.00 – 18.00
+              {{ $t('thursday') }} 09.00 – 17.00
             </li>
             <li class="info-item work-time">
-              {{ $t('friday') }} 09.00 – 18.00
+              {{ $t('friday') }} 09.00 – 17.00
             </li>
           </ul>
         </li>
